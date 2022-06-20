@@ -12,9 +12,12 @@
 
 <style scoped>
 p{
-    border: 2px solid black;
+    border: solid;
+    border-radius: 0px 5px 10px 30px;
+    padding: 30px 0px ;
 }
 .text2{
+    margin: auto;
     width: 200px;
 }
 </style>z
